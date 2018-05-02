@@ -34,19 +34,19 @@
         font-size: 80%;
     }
     .navbar-toggle {
-        background-color: #ffffff;
+        background-color: #000;
         border:none;
     }
     .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-        background-color: #333333;
+        background-color: #000;
         border:none;
     }
     .navbar-default .navbar-toggle:hover .icon-bar {
-        background-color: #fff;
+        background-color: #000;
     }
     .navbar-default .navbar-collapse, .navbar-default .navbar-form {
         border-color:none;
-        background: #00a5ff;
+        background: #000;
     }
     .brand-identity{
         text-align: center;
@@ -90,7 +90,7 @@
         bottom: 90px;
     }
     .navbar {
-        background: #00a5ff;
+        background: #000;
     }
     .navbar-default .navbar-collapse, .navbar-default .navbar-form {
         margin-top: 20px;
