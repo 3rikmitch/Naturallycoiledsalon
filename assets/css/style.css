@@ -462,20 +462,20 @@ textarea::-ms-input-placeholder
     padding: 15px 0;
 }
 .navbar-default .navbar-nav>li>a {
-    color: #ffd700 ;
+    color: #000;
     text-transform: uppercase;
     font-family: 'open_sanssemibold';
 }
 .nav>li>a:hover, .nav>li>a:focus {
     text-decoration: none;
-    background-color: #ff0000;
+    background-color: #000;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-    background-color:transparent;
+    background-color: #000;
 }
 .navbar-default .navbar-nav>li>a:focus {
-    color: #ffd700 ;
-    background-color: transparent;
+    color: #000;
+    background-color: #000;
 }
 .menu-bg{
     background: #000;
